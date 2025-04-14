@@ -105,7 +105,7 @@ struct Note: Identifiable, Hashable {
 
 ## Screenshots
 
-[]
+![screenshot](Snapshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-14%20at%2011.48.55.png) 
 
 ## Acknowledgments
 
